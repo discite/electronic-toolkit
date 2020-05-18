@@ -1,6 +1,6 @@
 # electronic_toolkit
 
-A new Flutter project edit this shit.
+A new Flutter project edit this.
 
 ## Getting Started
 
